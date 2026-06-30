@@ -17,7 +17,7 @@
   <string name="json_response">Surowa odpowiedź JSON</string>
   <string name="check_first">Najpierw sprawdź!</string>
   <string name="show_documentation">Dowiedz się, co oznaczają wyniki.</string>
-  <string name="docs_link">https://developer.android.com/google/play/integrity/verdicts#optional-device-labels</string>
+  <string name="docs_link">https://developer.android.com/google/play/integrity/verdicts?hl=pl#optional-device-labels</string>
   <string name="copy_json">Skopiuj JSON</string>
   <string name="copied">Skopiowano do schowka!</string>
   <string name="token_error_title">Błąd API interfejsu integralności</string>
