@@ -1,14 +1,10 @@
 <resources>
-  <string name="app_name" translatable="false">Play Integrity API Checker</string>
   <string name="error">Błąd</string>
   <string name="ok">OK</string>
   <string name="check">Sprawdź</string>
-  <string name="app_name_short" translatable="false">Integrity Checker</string>
   <string name="licenses">Licencje</string>
-  <string name="github" translatable="false">Github</string>
   <string name="about_text">Wykonane przez Nikolas Spiridakis\nWersja: %s (%d)</string>
   <string name="about">O aplikacji</string>
-  <string name="about_github_link" translatable="false">https://github.com/1nikolas/play-integrity-checker-app</string>
   <string name="no_browser_found">Nie znaleziono przeglądarki!</string>
   <string name="status_unknown">Nieznany</string>
   <string name="status_pass">Przechodzi</string>
